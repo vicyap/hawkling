@@ -1,6 +1,6 @@
 # Hawkling - Your Language Learning Companion
 
-Try it now: https://hawkling.fly.dev/
+Try it now: https://hawkling.ai/
 
 A smart language learning assistant that helps you:
 - 🎯 Assess your skill level in your target language
